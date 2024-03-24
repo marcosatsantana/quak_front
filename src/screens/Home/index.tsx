@@ -9,7 +9,6 @@ import { useMutation } from "@tanstack/react-query";
 import { Skeleton } from "@/components/ui/skeleton"
 import { Player } from '@lottiefiles/react-lottie-player';
 import Quack from "../../lotiefiles/quack.json"
-import Quack2 from "../../lotiefiles/quack2.json"
 import Quack3 from "../../lotiefiles/quack3.json"
 
 type props = {
